@@ -2,7 +2,7 @@
 EEE-EXAM
 _This is a Project-Based Exam for I-Programming_
 
-This stopwatch can track time, save lap times, and even clear lap records
+This stopwatch can track time, save lap times, and even clear lap records.
 ![stopwatch](https://github.com/CristineTerante/FINAL-OUTPUT-EEE100-/blob/master/stopwatch/hello%20kitty%20stopwatch.png)
 
 # How to Use (From Source Code)
